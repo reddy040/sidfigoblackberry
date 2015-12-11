@@ -1,0 +1,51 @@
+Classes taken and topics covered
+4rth August : Tuesday : Importance of Internship
+
+5th August : Wednesday : Goal and Roadmap of Internship + Importance and way of Learning
+
+6th August : Thursday : Overview of OOAD and Programming Constructs
+
+7th August : Friday : Class, Object, Reference variable, Class Variable, local variable, Multiple objects, Defining Requirement, Defining Functionality, With Example.
+
+8th August : -----------------Saturday-------------------
+
+9th August : ------------------Sunday--------------------
+
+10th August : Monday : Explained oops featues & concepts - Part-I : Object,object properties, Encapsulation, data binding, Abstraction, Polymorphism, polymorphism-ways, With Examples, 
+
+11th August : Tuesday : Explained oops featues & concepts - Part-II :  Explained importance and usage of message passing, Exception handling, Generics, Modularity, Security, With examples, Discussion on Requirement framing, Architecting, Discussion on Ideas, assignment etc.. 
+
+12TH aUGUST : Wednesday :  Design Patterns Understanding and MVC Framework
+
+13th August : Thursday :  HTML Input Tag, Form Tag, attributes
+
+14th August : Friday : Project I phase Understanding, flow and roadmap
+
+15th August : -----------------Saturday-------------------
+
+16th August : ------------------Sunday--------------------
+
+17th August : Monday :  HTML tags, properties and usage of Mocks, wireframe creation.
+
+18th August : Tuesday : Lab exercise to develop a resume template and create html mocks.
+
+19th August : Wednesday :-----------------Wednesday---------Nagarpanchami Holiday------
+
+20th August : Thursday :  Discussion on Idea, formulating Idea into problem definition and creating requirements & created 5 teams 
+		1. Student record mgmt
+		2. Internal Mgmt
+		3. Library Mgmt
+		4. Complaint Mgmt
+		5. Tourism Portal
+
+21th August : Friday : Overview of Javascript, Review on Week-1,-2 & -3, Discussion on Roadmap of prjt phase-1, & internship.
+
+22nd August : -----------------Saturday-------------------
+
+23rd August : ------------------Sunday--------------------
+
+24th August : Monday :  Chapter 1, Chapter 2, Chapter 3. Completed Java Basics and Programming Constructs
+
+25th August : Tuesday :  Chapter 4, Chapter 5.
+
+
